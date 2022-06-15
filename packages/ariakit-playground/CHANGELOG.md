@@ -1,5 +1,11 @@
 # ariakit-playground
 
+## 0.17.0-next.31
+
+### Patch Changes
+
+- Fixed `ResizeObserver` error on Safari 12.
+
 ## 0.17.0-next.30
 
 ### Patch Changes
